@@ -17,7 +17,7 @@
 }
 
 #left-container, #right-container {
-    width:180px;
+    width:195px;
     color:#686c70;
     text-align: left;
     overflow: auto;
@@ -103,8 +103,16 @@
 font-size:12px;
 color:#222;
 }
+.delete {
+	display:none;
+	float: right;
+    margin-left: 3px;
+}
 .delete a {
 	color:red;
+}
+.editable .delete{
+	display:block;
 }
 .label{
 color:black;
@@ -176,6 +184,15 @@ canvas{
 	/*height:25px;*/
   background-color:#2299FF;
 }
+.Process.system{
+	opacity:0.4;
+	/*height:25px;
+  background-color:#1177BB;*/
+}
+.system {
+    opacity: 0.4;
+}
+
 
 
 .labelDrag {
