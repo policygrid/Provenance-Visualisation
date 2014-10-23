@@ -1,4 +1,6 @@
 The Provenance Visualisation uses Provenance Service to get the data from the server. 
+Licensed under the Lesser General Public Licence (LGPL) Version 2.1 (http://www.gnu.org/licenses/lgpl-2.1.html)
+
 In future, conversion from PROV-O will be implemented.
 
 The demo for visualisation can be accessed here:
